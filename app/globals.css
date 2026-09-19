@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Nippo-Bold";
+  src: url("/fonts/Nippo-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-outward {
+  font-family: "Nippo-Bold", sans-serif;
+}
+
+body {
+  background-color: rgb(8, 6, 6);
+}

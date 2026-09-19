@@ -10,13 +10,13 @@ export default function Navbar() {
 
     return (
         <div>
-            <div className="relative rounded-xl bg-black/50 px-3 py-1 shadow-sm backdrop-blur-lg">
+            <div className="relative">
                 <GooeyNav
                     items={items}
                     particleCount={35}
                     particleDistances={[90, 10]}
                     particleR={100}
-                    initialActiveIndex={0}
+                    initialActiveIndex={1}
                     animationTime={600}
                     timeVariance={300}
                     colors={[1, 2, 3, 1, 2, 3, 1, 4]}
