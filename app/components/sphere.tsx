@@ -10,19 +10,19 @@ export default function Sphere() {
             description: ''
         },
         {
-            image: 'https://assets.lummi.ai/assets/QmVtFA9djGFUFJZnzP79AKvDcJNrVPX29UJiUpBBH9P3ef?auto=format&w=1500',
+            image: 'https://assets.lummi.ai/assets/QmZqNT65TBxKxy8BJeaXbTywznt8evBHHxpbMwh1W8Jc4x?auto=format&w=1500',
             link: 'https://google.com/',
             title: '',
             description: ''
         },
         {
-            image: 'https://images.unsplash.com/photo-1776394254711-4a0d7345269a?q=80&w=600&h=600&fit=crop&sat=-100&auto=format',
+            image: 'https://assets.lummi.ai/assets/Qmcu28rtqnuniEiqjHDeH5fYJ3bMHaDVQ818yiCB5JsxsV?auto=format&w=1500',
             link: 'https://google.com/',
             title: '',
             description: ''
         },
         {
-            image: 'https://images.unsplash.com/photo-1781242629922-6f39cc3671cd?q=80&w=600&h=600&fit=crop&sat=-100&auto=format',
+            image: 'https://assets.lummi.ai/assets/QmRBKbMkzU5V7CMRpBpAX8xo5Gr366xcRkYtc9NeXqwG4h?auto=format&w=1500',
             link: 'https://google.com/',
             title: '',
             description: ''
